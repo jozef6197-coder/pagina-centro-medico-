@@ -1,0 +1,5 @@
+{
+  "name": "SIGC - Centro Médico UNI",
+  "description": "Sistema Integrado de Gestión de Compras para el Centro Médico UNI. Gestiona requerimientos, aprobaciones, logística, almacén y administración de usuarios.",
+  "requestFramePermissions": []
+}
